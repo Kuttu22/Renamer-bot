@@ -63,7 +63,7 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('My Father 👨‍💻', url=myfather)
+          InlineKeyboardButton('My Father 👨‍💻', url=https://t.me/Kuttu_thomas)
           ]
         ]
        )
@@ -88,7 +88,7 @@ async def donate(bot, update):
              reply_markup=InlineKeyboardMarkup(
              [
                [
-                 InlineKeyboardButton('Donate 💰', url='http://paypal.me/maheshmalekar')
+                 InlineKeyboardButton('Donate 💰', url='https://t.me/Kuttu_thomas')
                ]
              ]
            )
